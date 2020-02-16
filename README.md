@@ -10,7 +10,7 @@ This is the source code of paper "[User Recommendation in Content Curation Platf
 
 
 ## Usage
-```python aaj.py```
+```python run.py```
 
 ## Cite
 
