@@ -7,7 +7,10 @@ This is the source code of paper "[User Recommendation in Content Curation Platf
 
 ![The proposed framework](framework.png)
 
+## Requirements
+python==3.6.8
 
+keras==2.3.1
 
 ## Usage
 ```python run.py```
