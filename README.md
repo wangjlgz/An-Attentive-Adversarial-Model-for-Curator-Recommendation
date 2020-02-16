@@ -5,7 +5,7 @@ User Recommendation in Content Curation Platforms(WSDM2020)
 
 This is the source code of paper "[User Recommendation in Content Curation Platforms](http://people.tamu.edu/~jwang713/pubs/curator-wsdm2020.pdf)".
 
-![The proposed framework](framework.png)
+![The proposed framework](plot.pdf)
 
 
 
